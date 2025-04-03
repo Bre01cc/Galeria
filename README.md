@@ -1,6 +1,6 @@
 #Galeria solar
 
-!(<Captura de tela 2025-04-03 181600.png>)
+![](<Captura de tela 2025-04-03 181600.png>)
 
 Projeto inicial de galeria de fotos, desenvolvida nas aulas de linguagem de marcação(Senai)
 
