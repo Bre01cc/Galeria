@@ -1,4 +1,5 @@
 # Galeria solar
+
 ## Sobre
 - Projeto inicial de galeria de fotos, desenvolvida nas aulas de linguagem de marcação(Senai).
 
@@ -7,5 +8,5 @@
 ## Tecnologias
 - HTML
 - CSS
-  ## Autor
-  [Breno Oliveira](https://www.linkedin.com/in/breno-oliveira-assis-reis-203010351/)
+## Autor
+- [Breno Oliveira](https://www.linkedin.com/in/breno-oliveira-assis-reis-203010351/)
