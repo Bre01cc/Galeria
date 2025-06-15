@@ -1,4 +1,4 @@
-#Galeria solar
+# Galeria solar
 ## Sobre
 - Projeto inicial de galeria de fotos, desenvolvida nas aulas de linguagem de marcação(Senai).
 
